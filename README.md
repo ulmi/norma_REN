@@ -3,6 +3,9 @@ Aplicação da "Norma Técnica para a Produção e Reprodução das Cartas de De
 
 ## Objetivos
 
+Facilitar a implementação da norma técnica para a produção e reprodução das cartas de delimitação da REN, em tecnologia Open-Source.
+
+
 ## TODO
 1. Criar o modelo de dados da norma
 2. Criar a simbologia
